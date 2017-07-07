@@ -6,7 +6,7 @@ description: 滴滴司机推荐
 # 请扫以下二维码进行司机注册
 ![推荐二维码](/images/image.png)
 
-`
+<script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
@@ -14,4 +14,4 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-`
+</script>
