@@ -1,12 +1,12 @@
 # Site settings
 title: 中国GrowthHackers
-email: 25713578@qq.com
+email: chenning007@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   糯米娃她爸的网站开业了
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://china-growthhacker.cn" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  chenning
+github_username:  chenning007
 
 # Build settings
 markdown: kramdown
